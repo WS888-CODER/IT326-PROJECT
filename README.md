@@ -1,3 +1,4 @@
+IT326 Project || Section: 71680 <br>
 Members names and IDs: <br>
 Lujain Alhusan || 444200785 <br>
 Noura Alzomai || 444200503 <br>
@@ -11,7 +12,7 @@ We chose to work with this dataset because it is clear and understandable. Our f
 The Goal of collecting this dataset: <br>
 The main goal for gathering this dataset is to use data mining techniques to perform clustering and classification on it. <br>
 ------------------------------------------------------------------------------<br>
-data set URL: https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes <br>
+Dataset URL: https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes <br>
 ------------------------------------------------------------------------------<br>
 Dataset Info:<br>
 Number of objects: 2769 <br>
