@@ -5,13 +5,13 @@ Hadeel althunyan || 442200483 <br>
 Lama Alkhathlan || 444200844 <br>
 Walaa Saif Aleslam || 444200088<br> 
 ------------------------------------------------------------------------------<br>
-Project Motivation: 
-We chose to work with this dataset because it is clear and understandable. Our focus is on predicting diabetes, given the rising prevalence of this disease globally. Early diagnosis is essential for preventing the serious complications associated with diabetes. 
+Project Motivation: <br>
+We chose to work with this dataset because it is clear and understandable. Our focus is on predicting diabetes, given the rising prevalence of this disease globally. Early diagnosis is essential for preventing the serious complications associated with diabetes. <br>
 ------------------------------------------------------------------------------<br>
 The Goal of collecting this dataset: <br>
-The main goal for gathering this dataset is to use data mining techniques to perform clustering and classification on it. 
+The main goal for gathering this dataset is to use data mining techniques to perform clustering and classification on it. <br>
 ------------------------------------------------------------------------------<br>
-data set URL: https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes 
+data set URL: https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes <br>
 ------------------------------------------------------------------------------<br>
 Dataset Info:<br>
 Number of objects: 2769 <br>
