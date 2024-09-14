@@ -1,4 +1,5 @@
 IT326 Project || Section: 71680 <br>
+------------------------------------------------------------------------------<br>
 Members names and IDs: <br>
 Lujain Alhusan || 444200785 <br>
 Noura Alzomai || 444200503 <br>
@@ -17,8 +18,19 @@ Dataset URL: https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes <br
 Dataset Info:<br>
 Number of objects: 2769 <br>
 Number of attributes: 10 <br> 
-Type of attributes: numaric, ratio <br>
 Class label: Diabetic or not <br>
+------------------------------------------------------------------------------<br>
+Types of Attributes:<br>
+1. *Id*: Nominal  <br>
+2. *Pregnancies*: Numeric ratio integer<br>
+3. *Glucose*: Numeric interval integer<br>
+4. *BloodPressure*: Numeric interval integer<br>
+5. *SkinThickness*: Numeric ratio integer  <br>
+6. *Insulin*: Numeric ratio integer  <br>
+7. *BMI*: Numeric ratio float  <br>
+8. *DiabetesPedigreeFunction*: Numeric interval float  <br>
+9. *Age*: Numeric ratio integer  <br>
+10. *Outcome*: Nominal (Binary)<br>
 ------------------------------------------------------------------------------<br>
 Columns Description: <br>
 Id: Unique identifier for each data entry. <br>
