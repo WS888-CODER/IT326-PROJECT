@@ -7,10 +7,11 @@ Hadeel althunyan || 442200483 <br>
 Lama Alkhathlan || 444200844 <br>
 Walaa Saif Aleslam || 444200088<br> 
 ------------------------------------------------------------------------------<br>
-Project Motivation: <br>
-We chose to work with this dataset because it is clear and understandable. Our focus is on predicting diabetes, given the rising prevalence of this disease globally. Early diagnosis is essential for preventing the serious complications associated with diabetes. <br>
+Project Goal:<br>
+Our objective is to develop a machine learning model that accurately predicts an individual’s risk of developing diabetes by leveraging both clustering and classification techniques.<br> Classification Approach:<br>
+We aim to train the model to distinguish between individuals at risk of developing diabetes and those who are not, utilizing a comprehensive set of health-related attributes.<br>
+Clustering Approach:<br>
+Our model will analyze underlying patterns within the data to identify distinct groups of individuals with similar risk profiles. These clusters will then be used to predict outcomes for new individuals, enhancing the model’s predictive accuracy and providing deeper insights into diabetes risk factors. <br>
 ------------------------------------------------------------------------------<br>
-The Goal of collecting this dataset: <br>
-The main goal for gathering this dataset is to use data mining techniques to perform clustering and classification on it. <br>
-------------------------------------------------------------------------------<br>
+
 
