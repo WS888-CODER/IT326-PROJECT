@@ -1,4 +1,4 @@
-<p style="color: #008080;">IT326 Project || Section: 71680 </p><br>
+IT326 Project || Section: 71680 <br>
 ------------------------------------------------------------------------------<br>
 Members names and IDs: <br>
 Lujain Alhusan || 444200785 <br>
